@@ -1,0 +1,9 @@
+D:\2.FILE\Computer_Science\Sem 5\Event Driven Programming\C# Projects\flappy_game\flappy_game\bin\Debug\flappy_game.exe.config
+D:\2.FILE\Computer_Science\Sem 5\Event Driven Programming\C# Projects\flappy_game\flappy_game\bin\Debug\flappy_game.exe
+D:\2.FILE\Computer_Science\Sem 5\Event Driven Programming\C# Projects\flappy_game\flappy_game\bin\Debug\flappy_game.pdb
+D:\2.FILE\Computer_Science\Sem 5\Event Driven Programming\C# Projects\flappy_game\flappy_game\obj\Debug\flappy_game.csprojResolveAssemblyReference.cache
+D:\2.FILE\Computer_Science\Sem 5\Event Driven Programming\C# Projects\flappy_game\flappy_game\obj\Debug\flappy_game.Form1.resources
+D:\2.FILE\Computer_Science\Sem 5\Event Driven Programming\C# Projects\flappy_game\flappy_game\obj\Debug\flappy_game.Properties.Resources.resources
+D:\2.FILE\Computer_Science\Sem 5\Event Driven Programming\C# Projects\flappy_game\flappy_game\obj\Debug\flappy_game.csproj.GenerateResource.Cache
+D:\2.FILE\Computer_Science\Sem 5\Event Driven Programming\C# Projects\flappy_game\flappy_game\obj\Debug\flappy_game.exe
+D:\2.FILE\Computer_Science\Sem 5\Event Driven Programming\C# Projects\flappy_game\flappy_game\obj\Debug\flappy_game.pdb
